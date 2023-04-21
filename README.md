@@ -1,5 +1,4 @@
-Partiendo de 10 tablas diferentes, se analiza un set de datos que contiene
-información acerca de restaurants, sus pedidos y sus clientes.
+This project starts with 10 different tables and analyses the information about several restaurants, their orders and customers.
 
-Habilidades usadas: Join, Tipo de Datos, Select Into, Funciones de Agregacion, Group By, Update, Alter, Drop
+Skills: Join, Data Types, Select Into, Aggregate Function, Group By, Update, Alter, Drop
 
